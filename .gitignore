@@ -1,0 +1,7 @@
+target/
+output/
+input/*/template/*
+input/*/dataset/*
+.idea/
+*.iml
+.env

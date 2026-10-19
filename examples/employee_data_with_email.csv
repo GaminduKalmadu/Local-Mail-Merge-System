@@ -1,0 +1,15 @@
+name,employeeId,email,address,amount,department,joiningDate,customerNumber,letterDate
+John Silva,EMP001,john.silva@example.com,Colombo,5000,IT,2026-01-15,CUST000001,2026-10-06
+Anne Perera,EMP002,anne.perera@example.com,Kandy,7500,HR,2026-02-10,CUST000002,2026-10-17
+Gamindu Kalmadu,EMP014,gamindu7@gmail.com,Malabe,6000,IT,2026-08-20,CUST000014,2026-10-18
+Kamal Fernando,EMP003,kamal.fernando@example.com,Galle,6500,Finance,2026-03-01,CUST000003,2026-10-20
+Nimal Jayasinghe,EMP004,nimal.jayasinghe@example.com,Negombo,5500,IT,2026-04-05,CUST000004,2026-10-21
+Sarah Wickramasinghe,EMP005,sarah.wickramasinghe@example.com,Matara,8000,Marketing,2026-01-25,CUST000005,2026-10-22
+Ruwan Bandara,EMP006,ruwan.bandara@example.com,Kurunegala,6200,Finance,2026-05-12,CUST000006,2026-10-23
+Dinithi Samarasinghe,EMP007,dinithi.samarasinghe@example.com,Gampaha,7000,HR,2026-03-18,CUST000007,2026-10-24
+Kasun Dissanayake,EMP008,kasun.dissanayake@example.com,Anuradhapura,5800,IT,2026-06-01,CUST000008,2026-10-25
+Tharushi Ranasinghe,EMP009,tharushi.ranasinghe@example.com,Ratnapura,9000,Management,2026-02-28,CUST000009,2026-10-26
+Isuru Gunawardena,EMP010,isuru.gunawardena@example.com,Badulla,6700,Operations,2026-07-10,CUST000010,2026-10-27
+Sachini Abeysekara,EMP011,sachini.abeysekara@example.com,Kalutara,7200,Marketing,2026-04-20,CUST000011,2026-10-28
+Chamath Peris,EMP012,chamath.peris@example.com,Panadura,6000,IT,2026-08-15,CUST000012,2026-10-29
+Hiruni Ekanayake,EMP013,hiruni.ekanayake@example.com,Kegalle,7800,Finance,2026-05-30,CUST000013,2026-10-30
